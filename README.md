@@ -1,21 +1,3 @@
 # Enquete de Votação
 
-Projeto em Java para simular uma enquete de votação.
-
-## Funcionalidades
-
-- Cadastro de candidatos
-- Registro dos votos
-- Resultado da votação
-- Percentual de votos
-- Exibição do vencedor
-
-## Tecnologias
-
-- Java
-- Vetores
-- Scanner
-
-## Objetivo
-
-Praticar vetores, laços de repetição e condicionais.
+Enquete de Votação é um projeto desenvolvido em Java que simula um sistema de votação via console. A aplicação permite cadastrar candidatos, registrar votos, calcular o percentual de votos de cada participante e exibir o resultado final, incluindo o candidato vencedor. O objetivo do projeto é praticar conceitos fundamentais da linguagem Java, como vetores, estruturas de repetição, condicionais e entrada de dados com Scanner.
